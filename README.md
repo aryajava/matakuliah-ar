@@ -1,4 +1,4 @@
-# Projecy Unity
+# Project Unity
 ## Matakuliah Augmented Reality
 Repositori untuk project unity matakuliah Augmented Reality
 
