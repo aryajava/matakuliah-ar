@@ -1,2 +1,2 @@
 # matakuliah-ar
-Repositori untuk matakuliah Augmented Reality
+Repositori untuk project unity matakuliah Augmented Reality
